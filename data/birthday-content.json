@@ -1,0 +1,192 @@
+{
+  "girlfriend": {
+    "name": "My Gemuh",
+    "age": 22,
+    "birthday": "2026-11-21T15:29:00+05:30",
+    "timezone": "Asia/Kolkata"
+  },
+  "intro": {
+    "eyebrow": "A little universe, made just for you",
+    "heading": "A beautiful journey is about to begin...",
+    "countdownLabel": "Until your next trip around the sun",
+    "celebrationTitle": "Happy 22nd birthday, my love.",
+    "celebrationSubtitle": "Today, the world celebrates the day my favorite person was born.",
+    "journeyLabel": "Your beautiful journey",
+    "milestones": ["Once upon a time...", "Childhood", "Growing up", "Becoming you", "Twenty-two"],
+    "enterLabel": "Enter our story",
+    "replayLabel": "Replay the celebration",
+    "journeyWindowDays": 30
+  },
+  "countdownUnits": ["Days", "Hours", "Minutes", "Seconds"],
+  "navigation": [
+    { "page": "home", "label": "Home", "href": "home.html" },
+    { "page": "journey", "label": "Our journey", "href": "our-story.html" },
+    { "page": "thingsILove", "label": "Things I love", "href": "things-i-love.html" },
+    { "page": "memories", "label": "Memories", "href": "memories.html" },
+    { "page": "littleThings", "label": "Little things", "href": "little-things.html" },
+    { "page": "letter", "label": "My letter", "href": "letter.html" },
+    { "page": "forever", "label": "Forever", "href": "forever.html" }
+  ],
+  "labels": {
+    "musicOn": "Turn music on",
+    "musicOff": "Turn music off",
+    "volume": "Music volume",
+    "menu": "Open the story menu",
+    "close": "Close",
+    "previous": "Previous memory",
+    "next": "Next memory",
+    "playSlideshow": "Play slideshow",
+    "pauseSlideshow": "Pause slideshow",
+    "openPhoto": "View photograph",
+    "openLetter": "Open the letter",
+    "surprise": "Open your little surprise",
+    "relive": "Relive our story",
+    "continue": "Keep going",
+    "viewMemories": "Wander through our memories",
+    "viewLetter": "Read a letter from my heart"
+  },
+  "home": {
+    "eyebrow": "To my favorite person",
+    "title": "Some stories are written in books. Ours is written in my heart.",
+    "subtitle": "And if I could choose again, in every lifetime, I'd still choose you.",
+    "background": "IMG-20260914-WA0014.jpg",
+    "backgroundPosition": "center center",
+    "cta": "Enter our story",
+    "scrollLabel": "A little further"
+  },
+  "journey": {
+    "eyebrow": "Chapter by chapter",
+    "title": "The story of us",
+    "intro": "Every little moment led me here: grateful that our paths found each other.",
+    "firstMeetingDate": "A day worth remembering",
+    "milestones": [
+      { "date": "The beginning", "title": "The day our paths crossed", "description": "Some days look ordinary until you realize they quietly changed everything.", "image": "IMG-20260215-WA0003(1).jpg", "position": "80% 20%" },
+      { "date": "A favorite memory", "title": "The first conversation", "description": "One conversation became a thousand little reasons to keep talking.", "image": "IMG-20260215-WA0004.jpg", "position": "50% 38%" },
+      { "date": "A turning point", "title": "The moment everything changed", "description": "Somewhere along the way, your happiness started to feel like home.", "image": "Screenshot_20260306_150732.jpg", "position": "70% 30%" },
+      { "date": "The little things", "title": "Memories that became special", "description": "The best parts were never grand gestures; they were simply being together.", "image": "IMG-20260518-WA0003.jpg", "position": "35% 65%" },
+      { "date": "Still choosing you", "title": "Every moment since then", "description": "Every page with you is my favorite, and our story is still being written.", "image": "IMG_20261117_095121.jpg", "position": "95% 5%" }
+    ],
+    "ending": "And our story is still being written."
+  },
+  "thingsILove": {
+    "eyebrow": "A few of a million reasons",
+    "title": "If someone asks me what makes you special, I wouldn't know where to begin.",
+    "reasons": [
+      { "title": "Your smile", "description": "The way you smile without realizing how beautiful it is.", "image": "IMG-20260514-WA0007.jpg", "position": "72% 58%" },
+      { "title": "Your eyes", "description": "Your eyes have a way of making everything feel a little more peaceful.", "image": "IMG-20260514-WA0008.jpg", "position": "95% 5%" },
+      { "title": "Your passions", "description": "The way you talk about the things you love makes me want to listen forever.", "image": "IMG-20260514-WA0009.jpg", "position": "50% 48%" },
+      { "title": "Your kindness", "description": "Your kindness lives in the smallest moments, where it matters most.", "image": "IMG-20260518-WA0001.jpg", "position": "95% 5%" },
+      { "title": "Your magic", "description": "You make ordinary days feel like something worth keeping.", "image": "IMG-20260518-WA0002.jpg", "position": "65% 35%" },
+      { "title": "The little things", "description": "Your tiny habits are the details my heart has memorized.", "image": "hema.jpg", "position": "90% 10%" },
+      { "title": "Your comfort", "description": "Even a conversation with you can make the whole day feel lighter.", "image": "IMG-20260518-WA0006.jpg", "position": "95% 5%" },
+      { "title": "Simply you", "description": "I love the person you are, in all the quiet moments nobody else sees.", "image": "hema 2.jpg", "position": "60% 40%" }
+    ],
+    "ending": "And somehow, even after all these reasons, I still haven't found enough words to explain how much I love you."
+  },
+  "gallery": {
+    "eyebrow": "Little moments, kept forever",
+    "title": "Our beautiful memories",
+    "intro": "A few pieces of time I would happily live again.",
+    "photos": [
+      { "image": "20180513_104546.jpg", "caption": "A day my girl arrived to my universe.", "date": "01-12-2004" },
+      { "image": "Screenshot_20260214_155524.jpg", "caption": "Kutty Kulanthai Mode My Gemuh", "date": "February 2026" },
+      { "image": "IMG-20260215-WA0003(1).jpg", "caption": "My Angel is wearing a beautiful dress.", "date": "February 2026" },
+      { "image": "IMG-20260215-WA0004.jpg", "caption": "Even Black and White also try to impress you.", "date": "February 2026" },
+      { "image": "Screenshot_20260215_194218.jpg", "caption": "Am always wait for your Face View.", "date": "February 2026" },
+      { "image": "Screenshot_20260220_215355.jpg", "caption": "A memory that makes me smile.", "date": "February 2026" },
+      { "image": "Screenshot_20260306_150732.jpg", "caption": "A moment worth holding onto.", "date": "March 2026" },
+      { "image": "Screenshot_20260306_173138.jpg", "caption": "Whenever seeing this you near from Me.", "date": "March 2026" },
+      { "image": "Screenshot_20260314_182700.jpg", "caption": "This one will always feel special.", "date": "March 2026" },
+      { "image": "Screenshot_20260327_163511.jpg", "caption": "A moment from our growing story.", "date": "March 2026" },
+      { "image": "Screenshot_20260328_132141.jpg", "caption": "I love having this memory with you.", "date": "March 2026" },
+      { "image": "Screenshot_20260328_134017.jpg", "caption": "One of the many things I treasure.", "date": "March 2026" },
+      { "image": "Screenshot_20260329_131945.jpg", "caption": "A moment that belongs in our story.", "date": "March 2026" },
+      { "image": "Screenshot_20260329_133353.jpg", "caption": "A memory made more beautiful by you.", "date": "March 2026" },
+      { "image": "Screenshot_20260329_133401.jpg", "caption": "Keeping a little piece of this day.", "date": "March 2026" },
+      { "image": "Screenshot_20260402_211001.jpg", "caption": "A good day, made even better.", "date": "April 2026" },
+      { "image": "Screenshot_20260403_094025.jpg", "caption": "Another favorite from our little universe.", "date": "April 2026" },
+      { "image": "Screenshot_20260404_102235.jpg", "caption": "A lovely moment, just as it was.", "date": "April 2026" },
+      { "image": "Screenshot_20260404_181516.jpg", "caption": "One for all the days I miss this moment.", "date": "April 2026" },
+      { "image": "Screenshot_20260406_204558.jpg", "caption": "Here is to many more memories together.", "date": "April 2026" },
+      { "image": "IMG_20260409_091615.jpg", "caption": "A tiny frame, a big feeling.", "date": "April 2026" },
+      { "image": "IMG-20260423-WA0006(1)(2).jpg", "caption": "The kind of moment that stays.", "date": "April 2026" },
+      { "image": "IMG-20260427-WA0003.jpg", "caption": "A memory I will always smile about.", "date": "April 2026" },
+      { "image": "IMG-20260514-WA0007.jpg", "caption": "My favorite view is still you.", "date": "May 2026" },
+      { "image": "IMG-20260514-WA0008.jpg", "caption": "A small moment, a very full heart.", "date": "May 2026" },
+      { "image": "IMG-20260514-WA0009.jpg", "caption": "Keeping this one close.", "date": "May 2026" },
+      { "image": "IMG-20260518-WA0001.jpg", "caption": "A moment that feels like us.", "date": "May 2026" },
+      { "image": "IMG-20260518-WA0002.jpg", "caption": "Proof that the little things are everything.", "date": "May 2026" },
+      { "image": "IMG-20260518-WA0003.jpg", "caption": "One for the collection of favorites.", "date": "May 2026" },
+      { "image": "IMG-20260518-WA0006.jpg", "caption": "A little happiness, captured.", "date": "May 2026" },
+      { "image": "IMG-20260518-WA0014.jpg", "caption": "One of those moments I never want to forget.", "date": "May 2026" },
+      { "image": "IMG-20260521-WA0015.jpg", "caption": "A day with you is always a good day.", "date": "May 2026" },
+      { "image": "IMG-20260522-WA0002.jpg", "caption": "A lovely little chapter.", "date": "May 2026" },
+      { "image": "IMG-20260522-WA0019.jpg", "caption": "A memory with your name written all over it.", "date": "May 2026" },
+      { "image": "IMG-20260523-WA0016.jpg", "caption": "Saving this one in my heart.", "date": "May 2026" },
+      { "image": "IMG-20260904-WA0003.jpg", "caption": "A favorite moment from our days together.", "date": "September 2026" },
+      { "image": "IMG-20260914-WA0014.jpg", "caption": "A little snapshot of my favorite person.", "date": "September 2026" },
+      { "image": "IMG_20261117_095121.jpg", "caption": "A moment I would keep on repeat.", "date": "November 2026" },
+      { "image": "hema.jpg", "caption": "A smile I will always remember.", "date": "A favorite moment" },
+      { "image": "hema 2.jpg", "caption": "A little mood, a lot of love.", "date": "A favorite moment" }
+    ]
+  },
+  "littleThings": {
+    "eyebrow": "For no reason at all",
+    "title": "Little things, big feelings",
+    "intro": "Things I wish I could tell you every day.",
+    "messages": [
+      "Your smile is my favorite notification.",
+      "Even an ordinary conversation with you becomes a memory.",
+      "You're my favorite part of every ordinary day.",
+      "I hope you know how easy you are to love.",
+      "Somehow, you make even the quiet feel full.",
+      "You're the reason I believe in love.",
+      "You're the healer of my heart, the light of my days, and the love of my life.",
+      "I love you more than words can say, and I hope you feel that every day.",
+      "You're eye point is healing my every pain and making me feel better than ever.",
+      "If you ever doubt how much you mean to me, just remember that my heart is yours, always."
+    ],
+    "surpriseTitle" : "A tiny reminder",
+    "surpriseMessage": "In a world full of places, people, and possibilities, I am so glad my heart found you.",
+    "surpriseClosedLabel": "A little note for you",
+    "surpriseOpenLabel": "One more thing..."
+  },
+  "letter": {
+    "eyebrow": "Written with all my heart",
+    "title": "A letter from my heart",
+    "openPrompt": "There is something I want you to know...",
+    "writeMode": {
+      "enabled": true,
+      "intervalMs": 100,
+      "charactersPerStep": 2
+    },
+    "content": "நான் இருந்தேன்...\nநான் இருக்கேன்...\nநான் இருப்பேன்... எப்போதும் உனக்காக... ❤️\n\nநீ சோகமா இருக்கும்போது உன்னை ஹாப்பியா மாத்த நான் இருப்பேன்...\nநீ ஹாப்பியா இருக்கும்போது இன்னும் ஹாப்பியா மாத்த நான் இருப்பேன்...\nநீ ஏதாவது நினைச்சு மனசுக்குள்ள கஷ்டப்படும்போது உனக்கு ஆறுதலா நான் இருப்பேன்...\nஉன் லைஃப்ல உனக்கு எந்த மாதிரியான சூழ்நிலை வந்தாலும் உன் கூடவே நான் இருப்பேன்...\n\nநீ பேசணும்னு நினைக்கும்போது உனக்கு ஒரு நல்ல கேட்பவனா இருப்பேன்...\nநீ எதுவும் பேசாம அமைதியா இருக்கும்போதும் உன் மௌனத்தைப் புரிஞ்சுக்கிறவனா இருப்பேன்...\n\nஉலகமே உன்னைப் புரிஞ்சுக்கலனாலும், உன்னைப் புரிஞ்சுக்க நான் முயற்சி பண்ணிட்டே இருப்பேன்...\nஎல்லாரும் உன்னை விட்டுப் போனாலும், உன் கையை விடாம இருக்குற ஒருத்தனா நான் இருப்பேன்...\n\nநீ தோற்றுப்போயிட்டேன்னு நினைக்கும்போது உன் மேல உனக்கே நம்பிக்கை வர வைப்பேன்...\nநீ உன்னை மறந்து உன் சந்தோஷத்தைத் தொலைக்கும்போது, உனக்காக உன் சிரிப்பைத் தேடுவேன்...\n\nஉனக்கு ஆயிரம் பேர் துணையா இருந்தாலும், அந்த ஆயிரம் பேருக்கு நடுவுல உனக்கான ஒரு தனி இடமா நான் இருப்பேன்...\n\nஉன்னோட சின்ன சின்ன சந்தோஷங்களையும் ரசிப்பேன்...\nஉன்னோட சின்ன சின்ன கோபங்களையும் புரிஞ்சுப்பேன்...\nஉன்னோட குழந்தைத்தனத்தையும் ரசிப்பேன்...\nஉன்னோட பலவீனங்களையும் குறையா பார்க்க மாட்டேன்...\n\nஏன்னா, எனக்கு உன்னோட சந்தோஷமான பக்கம் மட்டும் பிடிக்கல...\nஉன்னோட எல்லா பக்கமும் பிடிக்கும்... ❤️\n\nநீ எப்போதும் வலிமையா இருக்கணும்னு நான் எதிர்பார்க்க மாட்டேன்...\nசில நேரம் நீ உடைஞ்சு போனாலும் பரவாயில்லை...\nஅந்த நேரத்துல உன்னைத் தாங்கிப் பிடிக்க நான் இருப்பேன்...\n\nநீ மாறினாலும், உன் வாழ்க்கையில் சூழ்நிலைகள் மாறினாலும், நம்மிடையே எத்தனை தூரம் வந்தாலும், உன் மீதான என்னுடைய அன்பும் அக்கறையும் மாறாமல் இருக்கணும்னுதான் ஆசைப்படுறேன்...\n\nஉன்னிடம் எனக்கு எந்த எதிர்பார்ப்பும் இல்லைனு சொல்ல மாட்டேன்...\nஎன் சின்ன எதிர்பார்ப்பு ஒன்னுதான்...\nநீ எப்போதும் நல்லா இருக்கணும்...\nஉன் முகத்துல இருக்குற அந்தச் சிரிப்பு ஒருநாளும் மறையக்கூடாது... ❤️\n\nஉன் வாழ்க்கையில் எல்லாமே சரியா அமையணும்...\nஉன்னோட கனவுகள் எல்லாம் நனவாகணும்...\nஅந்த சந்தோஷமான தருணங்கள் ஒவ்வொன்றிலும் உன் பக்கத்துல இருந்து ரசிக்கணும்...\n\nகடைசியா ஒன்னு மட்டும் சொல்லிக்கிறேன்...\n\nஉன்னோட வாழ்க்கையில் நான் எப்போதும் முதல் ஆளா இருக்கணும்னு ஆசைப்படல...\nஆனா உனக்கு யாருமே இல்லாத ஒரு தருணம் வந்தா, உனக்காக இருக்கிற ஒருத்தனா நான் இருக்கணும்...\n\nஉன் சந்தோஷத்துக்கு ஒரு காரணமாவும்...\nஉன் கண்ணீருக்கு ஒரு ஆறுதலாவும்...\nஉன் கனவுகளுக்கு ஒரு துணையாவும்...\nஉன் வாழ்க்கைப் பயணத்தில் ஒரு நம்பிக்கையான உறவாவும்...\n\nநான் இருந்தேன்...\nநான் இருக்கேன்...\nநான் இருப்பேன்...\nஎப்போதும்... உனக்காக... உன் கூடவே... ❤️\n\nஏன்னா, நீ எனக்கு வெறும் ஒரு நபர் இல்ல...\nஎன் மனசுக்கு ரொம்ப நெருக்கமான ஒரு உணர்வு... ❤️",
+    "closing": "If I could give you one thing in life, it would be the ability to see yourself through my eyes. Only then would you understand how special you are to me."
+  },
+  "forever": {
+    "eyebrow": "And the story goes on",
+    "title": "22 looks beautiful on you, but every version of you will always be my favorite.",
+    "birthdayMessage": "Happy birthday, my Gemuh.",
+    "subtitle": "This is not the end of our story. It's just another beautiful chapter.",
+    "background": "IMG_20261117_095121.jpg",
+    "backgroundPosition": "center center",
+    "finalLine": "Here's to every beautiful chapter ahead."
+  },
+  "images": {
+    "directory": "images/",
+    "home": "IMG-20260514-WA0008.jpg",
+    "forever": "IMG_20261117_095121.jpg",
+    "letter": "IMG-20260518-WA0001.jpg",
+    "heroPosition": "center center",
+    "heroFit": "contain",
+    "galleryFit": "scale-down",
+    "timelineFit": "cover",
+    "reasonFit": "cover",
+    "defaultAlt": "A photograph from a favorite memory"
+  },
+  "music": {
+    "file": "music/Rathinamo.mp3",
+    "title": "A little music for our story",
+    "rememberPreference": true
+  }
+}
